@@ -5,6 +5,5 @@ wget -O install_mongo.sh https://raw.githubusercontent.com/ey3leaf/OTUS-tasks/ma
 wget -O deploy_app.sh https://raw.githubusercontent.com/ey3leaf/OTUS-tasks/master/ruby-config-scripts/deploy_app.sh
 
 bash install.ruby.sh
-rvm use 2.4.1
 bash install_mongo.sh
 bash deploy_app.sh
